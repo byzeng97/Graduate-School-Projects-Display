@@ -57,3 +57,4 @@ Fordham University Gabelli School of Business Projects 2019-2020
 
 
 ## [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Student%20Query%20Tool%20.zip)
+**A Python mini project to apply queries modified for school administration office demand**
