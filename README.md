@@ -1,8 +1,8 @@
 # Graduate-School-Projects-Display
 Fordham University Gabelli School of Business Projects 2019-2020
 
-## Group Pyramid Final Project [](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Group%20Pyramid%20Final%20Project)
-Analyzing the effect of youth tobacco consumption on mortality rate
+## [Group Pyramid Final Project](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Group%20Pyramid%20Final%20Project)
+**Analyzing the effect of youth tobacco consumption on mortality rate**
 
 *Why Important?* 
 
