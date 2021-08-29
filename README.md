@@ -1,7 +1,7 @@
 # Graduate-School-Projects-Display
 Fordham University Gabelli School of Business Projects 2019-2020
 
-## [Group Pyramid Final Project](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Group%20Pyramid%20Final%20Project)
+## 1. [Group Pyramid Final Project](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Group%20Pyramid%20Final%20Project)
 **Analyzing the effect of youth tobacco consumption on mortality rate**
 
 *Why Important?* 
@@ -35,7 +35,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 4. This study would open some new ways for researchers to examine more detailed causal effects of youth smoking on mortality.
 
 
-## [Amazon Fine Food Reviews](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Amazon%20fine%20food%20reviews)
+## 2. [Amazon Fine Food Reviews](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Amazon%20fine%20food%20reviews)
 - [Check out raw dataset here](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/master/Desktop/MSBA%20/Big%20Data%20Analytics/project/Amazon%20fine%20food%20reviews) 
 
 *Background & Purposes:*
@@ -56,7 +56,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 3. Obtain models with different accuracy rates on predicting the positive and negative reviews & refocused on the best model 
 
 
-## [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Student%20Query%20Tool%20.zip)
+## 3. [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Student%20Query%20Tool%20.zip)
 **A Python mini program to apply queries modified for school administration office demand**
 
 *Goal:* 
@@ -68,7 +68,7 @@ To build a program using python language (Note: the user interface is via the co
 4. Display a summary report of number and percent of students in each program, for students graduating on/after a certain year.
 
 
-## Google Q&A Type and Topic Classification
+## 4. [Google Q&A Type and Topic Classification]
 **To what degree is computer be like human who is able to ask and answer questions with multidimensional understanding and thinking**
 
 
