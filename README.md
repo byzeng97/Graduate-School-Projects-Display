@@ -62,7 +62,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 *Goal* 
 To build a program using python language (Note: the user interface is via the console):
 1. Display all student records.
-2. Display students whose last name begins with a certain string (case insensitive)
-3. Display all records for students whose graduating year is a certain year
-4. Display a summary report of number and percent of students in each program, for students graduating on/after a certain year
+2. Display students whose last name begins with a certain string (case insensitive).
+3. Display all records for students whose graduating year is a certain year.
+4. Display a summary report of number and percent of students in each program, for students graduating on/after a certain year.
 
