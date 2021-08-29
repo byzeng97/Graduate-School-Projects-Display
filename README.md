@@ -22,7 +22,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 *Data Description:* 
 1. Period: 2014 - 2017; Variables: 12 variables; Rows: 10601 rows
 2. Size = 4*12*10601 = 508848
-3. [Primary data link](chronicdata.cdc.gov/Survey-Data/Youth-Tobacco-Survey-YTS-Data/4juz-x2tp)
+3. [Primary data link](https://chronicdata.cdc.gov/Survey-Data/Youth-Tobacco-Survey-YTS-Data/4juz-x2tp)
 
 *Tool Selection:*
 1. Tableau: exploratory data analysis and visualization. 
