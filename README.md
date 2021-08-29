@@ -68,7 +68,7 @@ To build a program using python language (Note: the user interface is via the co
 4. Display a summary report of number and percent of students in each program, for students graduating on/after a certain year.
 
 
-## 4. [Google Q&A Type and Topic Classification]
+## 4. [Google Q&A Type and Topic Classification](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Google%20Q%26A%20Type%20and%20Topic%20Classification)
 **To what degree is computer be like human who is able to ask and answer questions with multidimensional understanding and thinking**
 
 
