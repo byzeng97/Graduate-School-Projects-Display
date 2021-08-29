@@ -49,3 +49,10 @@ Fordham University Gabelli School of Business Projects 2019-2020
 3. Data information: 568,454 reviews, 256,059 users, 74,258 products, 260 users with more than 50 reviews
 
 ![Methodology Illustation](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Amazon%20fine%20food%20reviews/Methodology%20Illustration.png)
+
+*Expected Results*
+1. A ranking list of word to indicate the positive or the negative reviews
+2. A chart show some of the most popular product in Amazon fine food
+3. Obtain models with different accuracy rates on predicting the positive and negative reviews & refocused on the best model 
+
+
