@@ -36,5 +36,5 @@ Fordham University Gabelli School of Business Projects 2019-2020
 
 
 ## [Amazon Fine Food Reviews](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Amazon%20fine%20food%20reviews)
-- [Check out raw dataset here]() 
+- [Check out raw dataset here](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/master/Desktop/MSBA%20/Big%20Data%20Analytics/project/Amazon%20fine%20food%20reviews) 
 
