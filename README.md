@@ -30,3 +30,11 @@ Fordham University Gabelli School of Business Projects 2019-2020
 1. Tableau: exploratory data analysis and visualization. 
 2. Python: dataset cleansing, statistical machine learning model building.
 
+* Conclusions & Future Research:*
+1. This study would find out how different demographic features would affect the smoking rates.
+2. This study would find out the magnitude of different mortality rates correlated with the smoking rates.
+3. This study would have one ANOVA model testing the differences of treatment among different smoking groups.
+4. This study would open some new ways for researchers to examine more detailed causal effects of youth smoking on mortality.
+
+
+
