@@ -5,7 +5,6 @@ Fordham University Gabelli School of Business Projects 2019-2020
 **Analyzing the effect of youth tobacco consumption on mortality rate**
 
 *Why Important?* 
-
 1. Present Limitation:
    - According to Tobacco twenty-One website, only 31 of the 51 states are “Tobacco 21 state”. 
    - FDA's Youth Tobacco Prevention Plan mainly pays attention to e-cigarette instead of other tobacco.
@@ -14,7 +13,6 @@ Fordham University Gabelli School of Business Projects 2019-2020
 3. The project results will support related national youth-limited tobacco policies released by Federal government. 
 
 *Project Aim:*
-
 1. To explore if there is a correlation between youth tobacco consumption and four types of mortality.
 2. Mortailities include cancer, heart disease, drug overdose and stroke.
 3. Addressing the correlation will have:
@@ -30,7 +28,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 1. Tableau: exploratory data analysis and visualization. 
 2. Python: dataset cleansing, statistical machine learning model building.
 
-* Conclusions & Future Research:*
+*Conclusions & Future Research:*
 1. This study would find out how different demographic features would affect the smoking rates.
 2. This study would find out the magnitude of different mortality rates correlated with the smoking rates.
 3. This study would have one ANOVA model testing the differences of treatment among different smoking groups.
