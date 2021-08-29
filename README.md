@@ -21,4 +21,12 @@ Fordham University Gabelli School of Business Projects 2019-2020
    - practical benefits for preventing tobacco use among middle school and high school students .
    - contribute to understanding of the widespread smoking phenomenon among youth.
 
+*Data Description:* 
+Period: 2014 - 2017; Variables: 12 variables; Rows: 10601 rows
+Size = 4*12*10601 = 508848
+[Primary data link](chronicdata.cdc.gov/Survey-Data/Youth-Tobacco-Survey-YTS-Data/4juz-x2tp)
+
+*Tool Selection:*
+Tableau: exploratory data analysis and visualization. 
+Python: dataset cleansing, statistical machine learning model building.<img width="556" alt="image" src="https://user-
 
