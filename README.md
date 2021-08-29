@@ -48,4 +48,4 @@ Fordham University Gabelli School of Business Projects 2019-2020
 2. Data size: 301 MB (10 columns * 568,454 rows)
 3. Data information: 568,454 reviews, 256,059 users, 74,258 products, 260 users with more than 50 reviews
 
-![Methodology Illustation](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Amazon%20fine%20food%20reviews/Methodology.png)
+![Methodology Illustation]()
