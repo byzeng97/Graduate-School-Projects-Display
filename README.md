@@ -59,6 +59,8 @@ Fordham University Gabelli School of Business Projects 2019-2020
 ## 3. [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Student%20Query%20Tool)
 **A Python mini program to apply queries modified for school administration office demand**
 
+Note: venv was built in Pycharm
+
 *Goal:* 
 
 To build a program using python language (Note: the user interface is via the console):
