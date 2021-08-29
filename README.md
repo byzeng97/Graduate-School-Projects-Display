@@ -99,7 +99,7 @@ Our target variable for question is question_target_mixed and our target variabl
 We assigned the labels by using the highest probabilities score from each question type variables. If the observation contains more than one highest score, we label that obersvation as mixed type.
 
 The process of the methodology implementation are set up as below:
-      - Step 1. Preliminary steps - Set up packages | Load Text | Initial exploratory | Text Preprocessing
+ - Step 1. Preliminary steps - Set up packages | Load Text | Initial exploratory | Text Preprocessing
    - Step 2. Text Preprocessing - Stopwords Removal, Stemming, Lowercase, ...etc
    - Step 3. Feature Engineering - TFIDF features
    - Step 4. Oversampling - Handle unbalanced class problem with TFIDF features
