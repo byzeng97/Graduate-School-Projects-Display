@@ -28,5 +28,5 @@ Fordham University Gabelli School of Business Projects 2019-2020
 
 *Tool Selection:*
 1. Tableau: exploratory data analysis and visualization. 
-2. Python: dataset cleansing, statistical machine learning model building.<img width="556" alt="image" src="https://user-
+2. Python: dataset cleansing, statistical machine learning model building.
 
