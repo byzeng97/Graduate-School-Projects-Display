@@ -69,7 +69,7 @@ To build a program using python language (Note: the user interface is via the co
 
 
 ## Google Q&A Type and Topic Classification
-**To what degree is computer be like human who is able to ask and answer questions with multidimensional understandin and thinking**
+**To what degree is computer be like human who is able to ask and answer questions with multidimensional understanding and thinking**
 
 
 *Part1- Q&A Topic Classification*
