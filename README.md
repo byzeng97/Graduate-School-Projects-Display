@@ -56,7 +56,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 3. Obtain models with different accuracy rates on predicting the positive and negative reviews & refocused on the best model 
 
 
-## 3. [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/blob/main/Student%20Query%20Tool%20.zip)
+## 3. [Student Query Tool](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Student%20Query%20Tool)
 **A Python mini program to apply queries modified for school administration office demand**
 
 *Goal:* 
