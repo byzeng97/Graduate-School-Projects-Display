@@ -60,6 +60,7 @@ Fordham University Gabelli School of Business Projects 2019-2020
 **A Python mini program to apply queries modified for school administration office demand**
 
 *Goal* 
+
 To build a program using python language (Note: the user interface is via the console):
 1. Display all student records.
 2. Display students whose last name begins with a certain string (case insensitive).
