@@ -67,3 +67,11 @@ To build a program using python language (Note: the user interface is via the co
 3. Display all records for students whose graduating year is a certain year.
 4. Display a summary report of number and percent of students in each program, for students graduating on/after a certain year.
 
+
+## Google Q&A Type and Topic Classification
+**To what degree is computer be like human who is able to ask and answer questions with multidimensional understandin and thinking**
+
+
+*Part1- Q&A Topic Classification*
+
+*Part2- Q&A Type Classification*
