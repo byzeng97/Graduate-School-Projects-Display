@@ -35,5 +35,6 @@ Fordham University Gabelli School of Business Projects 2019-2020
 4. This study would open some new ways for researchers to examine more detailed causal effects of youth smoking on mortality.
 
 
-## [Amazon Fine Food Reviews]  
+## [Amazon Fine Food Reviews](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Amazon%20fine%20food%20reviews)
+- [Check out raw dataset here]() 
 
