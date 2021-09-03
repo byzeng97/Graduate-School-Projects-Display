@@ -76,7 +76,7 @@ Note: venv was built in Pycharm
 
 *Part1- Q&A Topic Classification*
 
-1. In Q&A Category Classification part, Google pairs of questions and answers are classified into 5 topics, including life/arts, culture, science, technology, and stackoverflow by application of supervised machine learning technique along with text analytics.
+1. In Q&A Category Classification part, Google pairs of questions and answers are classified into **5 topics**, including life/arts, culture, science, technology, and stackoverflow by application of supervised machine learning technique along with text analytics.
 
 2. The process of the methodology implementation are set up as below:
    - Step 1. Preliminary steps - Set up packages | Load Text | Initial exploratory | Text Preprocessing
