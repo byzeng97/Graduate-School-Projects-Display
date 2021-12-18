@@ -1,5 +1,4 @@
-[Google Q&A Type and Topic Classification](https://github.com/byzeng97/Graduate-School-Projects-Display/tree/main/Google%20Q%26A%20Type%20and%20Topic%20Classification)
-**To what degree is computer be like human who is able to ask and answer questions with multidimensional understanding and thinking**
+**This project goal is emphasize on to what degree is computer be like human who is able to ask and answer questions with multidimensional understanding and thinking**
 
 
 *Part1- Q&A Topic Classification*
